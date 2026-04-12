@@ -1,2 +1,1 @@
-﻿# result-predictor
- - check the marks and predict the position of student according to the marks
+
