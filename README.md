@@ -4,7 +4,6 @@ This is a simple Python project that reads student marks from a CSV file and sho
 
 ## Features
 - Read data from CSV file
-- Calculate percentage
 - Show Pass/Fail
 - Assign Division (First, Second, Third)
 
@@ -19,3 +18,4 @@ python result.py
 ## Output Example
 Rahul → Pass (First Division)
 Priya → Fail
+
