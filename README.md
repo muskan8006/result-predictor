@@ -11,6 +11,7 @@ This is a simple Python project that reads student marks from a CSV file and sho
 Name,Maths,Science,English
 Rahul,75,68,80
 Priya,40,35,30
+rohit,65,45,50
 
 ## How to Run
 python result.py
@@ -18,4 +19,4 @@ python result.py
 ## Output Example
 Rahul → Pass (First Division)
 Priya → Fail
-
+rohit → pass(Second Division)
