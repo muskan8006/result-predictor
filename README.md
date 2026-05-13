@@ -12,6 +12,7 @@ Name,Maths,Science,English
 Rahul,75,68,80
 Priya,40,35,30
 rohit,65,45,50
+soni,45,50,53
 
 ## How to Run
 python result.py
@@ -20,3 +21,4 @@ python result.py
 Rahul → Pass (First Division)
 Priya → Fail
 rohit → pass(Second Division)
+soni → pass(Third Division) 
