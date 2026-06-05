@@ -18,7 +18,7 @@ soni,45,50,53
 python result.py
 
 ## Output Example
--Rahul → Pass (First Division)
--Priya → Fail
--rohit → pass(Second Division)
--soni → pass(Third Division) 
+Rahul → Pass (First Division)
+Priya → Fail
+rohit → pass(Second Division)
+soni → pass(Third Division) 
